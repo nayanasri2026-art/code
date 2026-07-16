@@ -1,0 +1,24 @@
+[{
+        "name": "lvprompts",
+        "id": "999",
+        "category": "sports",
+        "logo": "",
+        "url": "https://twitcasting.tv/g:107421087204174714661/embeddedplayer/live"
+    },
+
+
+       { "name": "SONY IOS",
+        "id": "1",
+        "category": "sports",
+        "logo": "",
+        "url": "https://cineios.pages.dev/p6/?url=https://sub.sportsstream.workers.dev/?id=272563"
+    },
+
+{ "name": "SONY Max",
+        "id": "0",
+        "category": "sports",
+        "logo": "",
+        "url": "https://cineprime7.pages.dev/sonymax/"
+    }
+
+]
