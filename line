@@ -3,9 +3,15 @@
         "id": "999",
         "category": "sports",
         "logo": "",
+        "url": "https://m-plyr.pages.dev/cric?id=ten1"
+    },
+{
+        "name": "lvprompts",
+        "id": "998",
+        "category": "sports",
+        "logo": "",
         "url": "https://tv4wab.pages.dev/?id=362"
     },
-
 
        { "name": "live",
         "id": "111",
