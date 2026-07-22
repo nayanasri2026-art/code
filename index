@@ -1,0 +1,137 @@
+[
+
+  { 
+    "name": "DD FREE DTH", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+
+{ 
+    "name": "CRICHD", 
+    "player": "player2", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
+    "dataSource": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u", 
+    "matchRule": "id", 
+    "findRule": "url",
+    "proxy": "https://cz-pli2.hridoytvx.workers.dev/proxy/",
+    "streamTemplate": ""
+  },
+{ 
+    "name": "ROARZONE", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/roarzone", 
+    "dataSource": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8", 
+    "matchRule": "url", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+
+
+  { 
+    "name": "AYNA", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/ayna", 
+    "dataSource": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8", 
+    "matchRule": "url", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+
+{ 
+    "name": "AYNA FREE", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/aynafree", 
+    "dataSource": "", 
+    "matchRule": "url", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+  { 
+    "name": "JIOHD", 
+    "player": "player6", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "",
+    "streamTemplate": "https://weba2z.pages.dev?id=${id}"
+  },
+  
+  { 
+    "name": "ZEE 5", 
+    "player": "player1", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/zee5", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "full",
+    "streamTemplate": ""
+  },
+{ 
+    "name": "TOFFEE", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/toffee", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "id",
+"streamTemplate":"https://obiramtv.pro.bd/toffee/play/${id}.m3u8"},
+
+  { 
+    "name": "SUNXT", 
+    "player": "player0", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sunxt", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "",
+    "streamTemplate": ""
+  },
+{ 
+    "name": "CRICKET M3U8", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricket", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+{ 
+    "name": "CRICKET MPD", 
+    "player": "player0", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketmpd", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+  { 
+    "name": "KHEL", 
+    "player": "player6", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/embed", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "",
+    "streamTemplate": ""
+  },
+{ 
+    "name": "SPORTS M3U8", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+  
+{ 
+    "name": "SPORTS MPD", 
+    "player": "player1", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sportsmpd", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  }
+  
+]
