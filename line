@@ -5,6 +5,13 @@
         "logo": "",
         "url": "https://kratosrepo.github.io/drm-player/EMB.html?video=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8"
     },
+{
+        "name": "lvprompts",
+        "id": "9999",
+        "category": "sports",
+        "logo": "",
+        "url": "https://kratosrepo.github.io/drm-player/index.html?emmbed-url=https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd&kid=065051b99bf5cf8d9a3bde5cbde6aaf9&key=214bd176832872339ce184338320f9a2"
+    },
   {
     "name": "Newslive",
     "id": "613",
